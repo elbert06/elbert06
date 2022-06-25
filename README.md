@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @elbert
-I am middle school third grade!
 </br>
-저는 중3입니다~! 마크 플러그인과 파이썬, go등의 문법을 알고 있습니다!
+저는 디미고 재학중인 고1입니다~! 
+</br>
+마크 플러그인, tensorflow, flutter등을 공부하고 있습니다.
+</br>
