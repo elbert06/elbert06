@@ -2,6 +2,7 @@
 </br>
 </br>
 #### 열심히 개발하고 있는 고2입니다.
+
 </br>
 
 > tensorflow 
@@ -24,3 +25,5 @@ java플러그인을 간단하게 할 줄 압니다.</br>
 </br>
 
 #### 아직 잘 모르는 고2입니다. 열심히 도와주시면 감사하겠습니다.
+#### email:elbert06@naver.com
+#### instagram: elbertkim2006
