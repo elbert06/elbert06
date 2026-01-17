@@ -55,11 +55,6 @@ Currently serving in the ROK Military 🇰🇷 (2026.02 ~ 2027.08)
 
 ---
 
-### 📈 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elbert06&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbert06&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
 
 ---
 
