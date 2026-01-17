@@ -32,8 +32,8 @@ Currently serving in the ROK Military 🇰🇷 (2026.02 ~ 2027.08)
 | Category | Project / Experience | Description |
 | :--- | :--- | :--- |
 | **AI Research** | **Filter Bubble Resistance Algorithm** | **[29th Humantech Paper Award Entry]** <br> Proposed 'Teatby' GAN model to mitigate filter bubbles in news algorithms. |
-| **Development** | **Awoolim (Main App)** | **[Desktop App]** Developed an Electron-based cross-platform application using **Svelte** & **TypeScript**. |
-| **Education** | **Korea Digital Media H.S.** | Majored in Hacking Defense / Web Programming. Solid foundation in Linux, C, and Networks. |
+| **Global Challenge** | **Google Solution Challenge 2025** | **[Certificate]** Participating in APAC Region (Powered by Google Developers). <br> Built AI-driven solutions for positive social change. 
+| **Education** | **Korea Digital Media H.S.** | Majored in Web Programming. Solid foundation in Linux, C, and Networks. |
 
 ---
 
@@ -49,9 +49,8 @@ Currently serving in the ROK Military 🇰🇷 (2026.02 ~ 2027.08)
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 </div>
 
 ---
