@@ -60,4 +60,4 @@ Currently serving in the ROK Military 🇰🇷 (2026.02 ~ 2027.08)
 
 ### 📬 Contact
 - **Email:** elbert06@hanmail.net
-- **Affiliation:** Dept. of Electrical Engineering, Inha University
+- **Affiliation:** Dept. of Electrical Engineering, Inha University 
