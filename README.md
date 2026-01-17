@@ -32,8 +32,8 @@ Currently serving in the ROK Military 🇰🇷 (2026.02 ~ 2027.08)
 | Category | Project / Experience | Description |
 | :--- | :--- | :--- |
 | **AI Research** | **Filter Bubble Resistance Algorithm** | **[29th Humantech Paper Award Entry]** <br> Proposed 'Teatby' GAN model to mitigate filter bubbles in news algorithms. |
-| **Global Challenge** | **Google Solution Challenge 2025** | **[Certificate]** Participating in APAC Region (Powered by Google Developers). <br> Built AI-driven solutions for positive social change. 
-| **Education** | **Korea Digital Media H.S.** | Majored in Web Programming. Solid foundation in Linux, C, and Networks. |
+| **Global Challenge** | **Google Solution Challenge 2025** | **[Certificate]** Participating in APAC Region (Powered by Google Developers). <br> Built AI-driven solutions for positive social change. |
+| **Education** | **Korea Digital Media H.S.** | **Majored in Web Programming.** <br> Built full-stack capabilities with **TypeScript, React, Flutter, SQL** on top of strong CS fundamentals (Linux, C). |
 
 ---
 
@@ -42,15 +42,23 @@ Currently serving in the ROK Military 🇰🇷 (2026.02 ~ 2027.08)
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=MathWorks&logoColor=white"/>
 </div>
 
-**Base (Engineering)**
+**Engineering Base**
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+</div>
+
+---
+
+### 📈 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=elbert06&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbert06&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
